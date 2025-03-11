@@ -49,7 +49,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <h2>Actions and Observations</h2>
 
 <p>
-![image](https://github.com/user-attachments/assets/2e1fb0e0-eee1-4b12-8050-45dd61a59359)
+<img width="770" alt="image" src="[https://github.com/user-attachments/assets/33771e10-a562-41fa-a620-f67a45f03447](https://github.com/user-attachments/assets/2e1fb0e0-eee1-4b12-8050-45dd61a59359" />
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
