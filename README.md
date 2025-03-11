@@ -123,5 +123,5 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 ## Allow Traffic to come in
 ### Within the `Windows Defender Firewall with Advanced Security` application, create a new rule that will allow traffic from just the Linux machine
 <p>
-<img width="944" alt="image" src="https://github.com/user-attachments/assets/f0705f30-d9ed-4448-a1be-6554ac5ef7a0" />
+<img width="944" alt="image" src="https://github.com/user-attachments/assets/2e233ff1-0536-4f9d-a64a-602eb8097fda" />
 </p>
