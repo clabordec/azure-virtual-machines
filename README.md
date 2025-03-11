@@ -48,17 +48,13 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <h2>Actions and Observations</h2>
 
-<p>
 Create the resource group, this resource group will store all of the necessary resources for the project
-</p>
 <p>
 <img width="770" alt="image" src="https://github.com/user-attachments/assets/33771e10-a562-41fa-a620-f67a45f03447" />
 </p>
 <br />
 
-<p>
-Create the Windows(Windows 10 Pro) Virtual Machnine and the Linux(Ubuntu) Virtual Machnine ensuring that they are both on the same network(Vnet/subnet).
-</p>
+Create the `Windows(Windows 10 Pro)` Virtual Machnine and the `Linux(Ubuntu)` Virtual Machnine ensuring that they are both on the same network(Vnet/subnet).
 <p>
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/71b7d200-5f08-4b6c-ac3e-f6fe7881d14f" />
 </p>
