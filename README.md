@@ -1,5 +1,5 @@
 <p align="center">
-<img width="800" alt="image" src="https://github.com/user-attachments/assets/174839cb-f9c3-4588-bbd3-2cb6b79d8f8c" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/174839cb-f9c3-4588-bbd3-2cb6b79d8f8c" />
 </p>
 
 <h1>Inspecting Traffic Between Azure Virtual Machines And Adding Firewall Rules</h1>
