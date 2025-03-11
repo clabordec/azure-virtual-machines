@@ -75,6 +75,9 @@ Remote into the Windows VM with the public IP address `48.216.217.148` using the
 <p>
 <img width="944" alt="image" src="https://github.com/user-attachments/assets/ade5a63d-bbad-40cf-a9c1-78443553a1d9" />
 </p>
+<p>
+<img width="302" alt="image" src="https://github.com/user-attachments/assets/834bf960-551b-4b41-aa6f-6d39f6e29918" />
+</p>
 <br />
 
 Create the `Windows(Windows 10 Pro)` Virtual Machnine and the `Linux(Ubuntu)` Virtual Machnine ensuring that they are both on the same network `(Vnet/subnet)`.
