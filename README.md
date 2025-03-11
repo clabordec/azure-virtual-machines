@@ -71,9 +71,9 @@ Create the `Windows(Windows 10 Pro)` Virtual Machnine and the `Linux(Ubuntu)` Vi
 </p>
 <br />
 
-Create the resource group, this resource group will store all of the necessary resources for the project
+Remote into the Windows VM with the public IP address `48.216.217.148` using the Remote Desktop Connection(RDP) application
 <p>
-<img width="770" alt="image" src="https://github.com/user-attachments/assets/33771e10-a562-41fa-a620-f67a45f03447" />
+<img width="944" alt="image" src="https://github.com/user-attachments/assets/ade5a63d-bbad-40cf-a9c1-78443553a1d9" />
 </p>
 <br />
 
