@@ -92,7 +92,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 </p>
 <br />
 
-### Remote into the Linux VM using the MobaXterm application
+### Remote into the Linux VM using the MobaXterm application with the public IP address `48.216.217.159`
 <p>
 <img width="935" alt="image" src="https://github.com/user-attachments/assets/2e049777-4c3f-4874-828a-076020e2fe49" />
 </p>
