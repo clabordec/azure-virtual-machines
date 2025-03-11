@@ -58,6 +58,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 </p>
 <br />
 
+## Virtual Machine Creation
 ### Create the `Windows(Windows 10 Pro)` Virtual Machine and the `Linux(Ubuntu)` Virtual Machine ensuring that they are both on the same network `(Vnet/subnet)`.
 <p>
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/71b7d200-5f08-4b6c-ac3e-f6fe7881d14f" />
