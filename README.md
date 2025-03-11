@@ -65,9 +65,15 @@ Create the resource group, this resource group will store all of the necessary r
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/71b7d200-5f08-4b6c-ac3e-f6fe7881d14f" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Create the Windows(Windows 10 Pro) Virtual Machnine and the Linux(Ubuntu) Virtual Machnine ensuring that they are both on the same network(Vnet/subnet).
 </p>
+<p>Windows</p>
+![image](https://github.com/user-attachments/assets/3fb7660a-ea00-471a-bc94-5c43832559b1)
+
+<p>Linux</p>
+![image](https://github.com/user-attachments/assets/ef4b54f9-74d4-4af1-8ec3-87c6cd9eeb3f)
+
 <br />
