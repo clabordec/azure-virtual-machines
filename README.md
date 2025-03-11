@@ -113,7 +113,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 ### In the Linux VM, ping the private IP address that is assigned to the Linux VM
 <p>
-<img width="431" alt="image" src="https://github.com/user-attachments/assets/465ce3e1-a89a-42c8-b9a9-4917b57ec959" />
+<img width="944" alt="image" src="https://github.com/user-attachments/assets/465ce3e1-a89a-42c8-b9a9-4917b57ec959" />
 </p>
 
 - The Linux VM was not able to connect to the Windows VM due to either the server being down or traffic is blocked by the firewall
@@ -123,5 +123,5 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 ## Allow Traffic to come in
 ### Within the `Windows Defender Firewall with Advanced Security` application, create a new rule that will allow traffic from just the Linux machine
 <p>
-<img width="431" alt="image" src="https://github.com/user-attachments/assets/f0705f30-d9ed-4448-a1be-6554ac5ef7a0" />
+<img width="944" alt="image" src="https://github.com/user-attachments/assets/f0705f30-d9ed-4448-a1be-6554ac5ef7a0" />
 </p>
