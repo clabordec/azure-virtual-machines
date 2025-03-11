@@ -24,13 +24,22 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 - Windows 10 (21H2)
 - Ubuntu Server 20.04
 
+<br>
+
 <h2>High-Level Steps</h2>
 
 ### Create Virtual Machines
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Create Resource Group
+- Create a Windows 10 Virtual Machine
+    - Make sure that it is assigned the resource group that was created
+    - Make sure that a new Vnet is created and assigned to the following VM
+- Create a Linux (Ubuntu) Virtual Machine
+    - Make sure that it is assigned the resource group that was created
+    - Make sure that it is assigned to the Vnet that was assigned to the Windows VM
+    - Change the authentication type to password
+- Verify that both VMs work by inputting the public IP address within Remote Desktop Connect(RDP)
+
+<br>
 
 <h2>Actions and Observations</h2>
 
