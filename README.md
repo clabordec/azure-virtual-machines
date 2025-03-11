@@ -76,7 +76,7 @@ Create the Windows(Windows 10 Pro) Virtual Machnine and the Linux(Ubuntu) Virtua
 </p>
 
 <p>Linux</p>
-</p>
-![image](https://github.com/user-attachments/assets/ef4b54f9-74d4-4af1-8ec3-87c6cd9eeb3f)
+<p>
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/2df01268-cde6-4c5f-be2e-77924ce3060c" />
 </p>
 <br />
