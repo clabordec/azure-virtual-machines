@@ -120,6 +120,8 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 - Since the server is up, this only leads to the firewall blocking the request from the Linux VM
 - I will add a firewall inbound rule to allow requests from the Linux VM
 
+<br />
+
 ## Allow Traffic to come in
 ### Within the `Windows Defender Firewall with Advanced Security` application, create a new rule that will allow traffic from just the Linux machine
 <p>
