@@ -49,13 +49,13 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <h2>Actions and Observations</h2>
 
-Create the resource group, this resource group will store all of the necessary resources for the project
+### Create the resource group, this resource group will store all of the necessary resources for the project
 <p>
 <img width="770" alt="image" src="https://github.com/user-attachments/assets/33771e10-a562-41fa-a620-f67a45f03447" />
 </p>
 <br />
 
-Create the `Windows(Windows 10 Pro)` Virtual Machine and the `Linux(Ubuntu)` Virtual Machine ensuring that they are both on the same network `(Vnet/subnet)`.
+### Create the `Windows(Windows 10 Pro)` Virtual Machine and the `Linux(Ubuntu)` Virtual Machine ensuring that they are both on the same network `(Vnet/subnet)`.
 <p>
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/71b7d200-5f08-4b6c-ac3e-f6fe7881d14f" />
 </p>
@@ -72,7 +72,7 @@ Create the `Windows(Windows 10 Pro)` Virtual Machine and the `Linux(Ubuntu)` Vir
 </p>
 <br />
 
-Remote into the Windows VM with the public IP address `48.216.217.148` using the Remote Desktop Connection(RDP) application
+### Remote into the Windows VM with the public IP address `48.216.217.148` using the Remote Desktop Connection(RDP) application
 <p>
 <img width="944" alt="image" src="https://github.com/user-attachments/assets/ade5a63d-bbad-40cf-a9c1-78443553a1d9" />
 </p>
@@ -81,7 +81,7 @@ Remote into the Windows VM with the public IP address `48.216.217.148` using the
 </p>
 <br />
 
-Once remoted in, open up powershell within the windows VM and get the private IP address
+### Once remoted in, open up powershell within the windows VM and get the private IP address
 <p>
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/88000cf7-0f50-427c-a44c-0c4897425eb9" />
 </p>
