@@ -71,9 +71,12 @@ Create the resource group, this resource group will store all of the necessary r
 Create the Windows(Windows 10 Pro) Virtual Machnine and the Linux(Ubuntu) Virtual Machnine ensuring that they are both on the same network(Vnet/subnet).
 </p>
 <p>Windows</p>
+<p>
 ![image](https://github.com/user-attachments/assets/3fb7660a-ea00-471a-bc94-5c43832559b1)
+</p>
 
 <p>Linux</p>
+</p>
 ![image](https://github.com/user-attachments/assets/ef4b54f9-74d4-4af1-8ec3-87c6cd9eeb3f)
-
+</p>
 <br />
