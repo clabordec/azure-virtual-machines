@@ -49,28 +49,22 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <h2>Actions and Observations</h2>
 
 <p>
-<img width="770" alt="image" src="https://github.com/user-attachments/assets/2e1fb0e0-eee1-4b12-8050-45dd61a59359" />
+Create the resource group, this resource group will store all of the necessary resources for the project
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
 <p>
 <img width="770" alt="image" src="https://github.com/user-attachments/assets/33771e10-a562-41fa-a620-f67a45f03447" />
 </p>
-<p>
-Create the resource group, this resource group will store all of the necessary resources for the project
-</p>
 <br />
 
 <p>
-<img width="959" alt="image" src="https://github.com/user-attachments/assets/71b7d200-5f08-4b6c-ac3e-f6fe7881d14f" />
-</p>
-<p>
 Create the Windows(Windows 10 Pro) Virtual Machnine and the Linux(Ubuntu) Virtual Machnine ensuring that they are both on the same network(Vnet/subnet).
 </p>
-<p>Windows</p>
+<p>
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/71b7d200-5f08-4b6c-ac3e-f6fe7881d14f" />
+</p>
+
+
+<h3>Windows</h3>
 <p>
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/2df01268-cde6-4c5f-be2e-77924ce3060c" />
 </p>
