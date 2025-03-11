@@ -103,3 +103,13 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <img width="536" alt="image" src="https://github.com/user-attachments/assets/07fbd780-2b7d-4b5d-9415-f01d1e9996ba" />
 </p>
 <br />
+
+## Check packet data traffic
+### In the Windows VM, ping the private IP address that is assigned to the Linux VM
+<p>
+<img width="944" alt="image" src="https://github.com/user-attachments/assets/cdb75321-3c33-4f97-8d77-acaa837b9855" />
+</p>
+<p>
+<img width="302" alt="image" src="https://github.com/user-attachments/assets/834bf960-551b-4b41-aa6f-6d39f6e29918" />
+</p>
+<br />
