@@ -72,11 +72,11 @@ Create the Windows(Windows 10 Pro) Virtual Machnine and the Linux(Ubuntu) Virtua
 </p>
 <p>Windows</p>
 <p>
-![image](https://github.com/user-attachments/assets/3fb7660a-ea00-471a-bc94-5c43832559b1)
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/2df01268-cde6-4c5f-be2e-77924ce3060c" />
 </p>
 
 <h3>Linux</h3>
 <p>
-<img width="959" alt="image" src="https://github.com/user-attachments/assets/2df01268-cde6-4c5f-be2e-77924ce3060c" />
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/4e7cce85-f687-47e8-8496-f9adf06f5778" />
 </p>
 <br />
