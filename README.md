@@ -85,3 +85,16 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <p>
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/88000cf7-0f50-427c-a44c-0c4897425eb9" />
 </p>
+<br />
+
+### Remote into the Linux VM using the MobaXterm application
+<p>
+<img width="935" alt="image" src="https://github.com/user-attachments/assets/2e049777-4c3f-4874-828a-076020e2fe49" />
+</p>
+<p>
+<img width="638" alt="image" src="https://github.com/user-attachments/assets/939ba0a8-cf93-470b-8836-92280711d46f" />
+</p>
+<p>
+<img width="536" alt="image" src="https://github.com/user-attachments/assets/07fbd780-2b7d-4b5d-9415-f01d1e9996ba" />
+</p>
+<br />
