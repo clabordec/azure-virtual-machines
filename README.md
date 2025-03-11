@@ -47,8 +47,10 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <br>
 
-<h2>Actions and Observations</h2>
+<h1>Actions and Observations</h!>
 
+
+## Resource Group Creation
 ### Create the resource group, this resource group will store all of the necessary resources for the project
 <p>
 <img width="770" alt="image" src="https://github.com/user-attachments/assets/33771e10-a562-41fa-a620-f67a45f03447" />
