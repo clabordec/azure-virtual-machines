@@ -76,6 +76,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 </p>
 <br />
 
+## Remoting Into the Virtual Machines
 ### Remote into the Windows VM with the public IP address `48.216.217.148` using the Remote Desktop Connection(RDP) application
 <p>
 <img width="944" alt="image" src="https://github.com/user-attachments/assets/ade5a63d-bbad-40cf-a9c1-78443553a1d9" />
