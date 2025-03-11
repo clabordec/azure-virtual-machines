@@ -49,6 +49,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <h1>Actions and Observations</h!>
 
+<br>
 
 ## Resource Group Creation
 ### Create the resource group, this resource group will store all of the necessary resources for the project
