@@ -61,59 +61,59 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 ## Virtual Machine Creation
 ### Create the `Windows(Windows 10 Pro)` Virtual Machine and the `Linux(Ubuntu)` Virtual Machine ensuring that they are both on the same network `(Vnet/subnet)`.
 <p>
-<img width="959" alt="image" src="https://github.com/user-attachments/assets/71b7d200-5f08-4b6c-ac3e-f6fe7881d14f" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/71b7d200-5f08-4b6c-ac3e-f6fe7881d14f" />
 </p>
 
 
 <h3>Windows</h3>
 <p>
-<img width="959" alt="image" src="https://github.com/user-attachments/assets/2df01268-cde6-4c5f-be2e-77924ce3060c" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/2df01268-cde6-4c5f-be2e-77924ce3060c" />
 </p>
 
 <h3>Linux</h3>
 <p>
-<img width="959" alt="image" src="https://github.com/user-attachments/assets/4e7cce85-f687-47e8-8496-f9adf06f5778" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/4e7cce85-f687-47e8-8496-f9adf06f5778" />
 </p>
 <br />
 
 ## Remoting Into the Virtual Machines
 ### Remote into the Windows VM with the public IP address `48.216.217.148` using the Remote Desktop Connection(RDP) application
 <p>
-<img width="944" alt="image" src="https://github.com/user-attachments/assets/ade5a63d-bbad-40cf-a9c1-78443553a1d9" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/ade5a63d-bbad-40cf-a9c1-78443553a1d9" />
 </p>
 <p>
-<img width="302" alt="image" src="https://github.com/user-attachments/assets/834bf960-551b-4b41-aa6f-6d39f6e29918" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/834bf960-551b-4b41-aa6f-6d39f6e29918" />
 </p>
 <br />
 
 ### Once remoted in, open up powershell within the windows VM and get the private IP address
 <p>
-<img width="959" alt="image" src="https://github.com/user-attachments/assets/88000cf7-0f50-427c-a44c-0c4897425eb9" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/88000cf7-0f50-427c-a44c-0c4897425eb9" />
 </p>
 <br />
 
 ### Remote into the Linux VM using the MobaXterm application with the public IP address `48.216.217.159`
 <p>
-<img width="935" alt="image" src="https://github.com/user-attachments/assets/2e049777-4c3f-4874-828a-076020e2fe49" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/2e049777-4c3f-4874-828a-076020e2fe49" />
 </p>
 <p>
-<img width="638" alt="image" src="https://github.com/user-attachments/assets/939ba0a8-cf93-470b-8836-92280711d46f" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/939ba0a8-cf93-470b-8836-92280711d46f" />
 </p>
 <p>
-<img width="536" alt="image" src="https://github.com/user-attachments/assets/07fbd780-2b7d-4b5d-9415-f01d1e9996ba" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/07fbd780-2b7d-4b5d-9415-f01d1e9996ba" />
 </p>
 <br />
 
 ## Testing connectivity
 ### In the Windows VM, ping the private IP address that is assigned to the Linux VM
 <p>
-<img width="944" alt="image" src="https://github.com/user-attachments/assets/cdb75321-3c33-4f97-8d77-acaa837b9855" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/cdb75321-3c33-4f97-8d77-acaa837b9855" />
 </p>
 <br />
 
 ### In the Linux VM, ping the private IP address that is assigned to the Linux VM
 <p>
-<img width="944" alt="image" src="https://github.com/user-attachments/assets/465ce3e1-a89a-42c8-b9a9-4917b57ec959" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/465ce3e1-a89a-42c8-b9a9-4917b57ec959" />
 </p>
 
 - The Linux VM was not able to connect to the Windows VM due to either the server being down or traffic is blocked by the firewall
@@ -123,16 +123,16 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 ## Allow Traffic to come in
 ### Within the `Windows Defender Firewall with Advanced Security` application, create a new rule that will allow traffic from just the Linux machine
 <p>
-<img width="944" alt="image" src="https://github.com/user-attachments/assets/2e233ff1-0536-4f9d-a64a-602eb8097fda" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/2e233ff1-0536-4f9d-a64a-602eb8097fda" />
 </p>
 <p>
-<img width="944" alt="image" src="https://github.com/user-attachments/assets/c20f872d-4df8-48c4-bc35-7e8780b88708" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/c20f872d-4df8-48c4-bc35-7e8780b88708" />
 </p>
 <p>
-<img width="944" alt="image" src="https://github.com/user-attachments/assets/5c14a99b-77e1-460e-aae2-e29de5ef1c0a" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/5c14a99b-77e1-460e-aae2-e29de5ef1c0a" />
 </p>
 <p>
-<img width="944" alt="image" src="https://github.com/user-attachments/assets/5c14a99b-77e1-460e-aae2-e29de5ef1c0a" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/5c14a99b-77e1-460e-aae2-e29de5ef1c0a" />
 </p>
 
 
