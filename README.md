@@ -55,7 +55,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <br />
 
 ## Virtual Machine Creation
-### Create the `Windows(Windows 10 Pro)` Virtual Machine and the `Linux(Ubuntu)` Virtual Machine ensuring that they are both on the same network `(Vnet/subnet)`.
+### Create the `Windows(Windows 10 Pro)` Virtual Machine and the `Linux(Ubuntu)` Virtual Machine, ensuring that they are both on the same network `(Vnet/subnet)`.
 <p>
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/71b7d200-5f08-4b6c-ac3e-f6fe7881d14f" />
 </p>
@@ -112,7 +112,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/465ce3e1-a89a-42c8-b9a9-4917b57ec959" />
 </p>
 
-- The Linux VM was not able to connect to the Windows VM due to either the server being down or traffic is blocked by the firewall
+- The Linux VM was not able to connect to the Windows VM due to either the server being down or traffic being blocked by the firewall
 - Since the server is up, this only leads to the firewall blocking the request from the Linux VM
 - I will add a firewall inbound rule to allow requests from the Linux VM
 
