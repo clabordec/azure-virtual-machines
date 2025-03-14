@@ -3,7 +3,7 @@
 </p>
 
 <h1>Inspecting Traffic Between Azure Virtual Machines And Adding Firewall Rules</h1>
-In this tutorial, we observe various network traffic to and from Azure Virtual Machines with Wireshark as well as experiment with Network Security Groups. <br />
+In this project, we will inspect network traffic between Azure Virtual Machines (VMs) and set up firewall rules. It includes creating a Windows and Linux VM, testing connectivity between the two VMs, and modifying firewall rules to allow traffic. Technologies used include Microsoft Azure, PowerShell, MobaXterm, and Remote Desktop Connection. The project involves troubleshooting blocked traffic and enabling communication by adjusting firewall settings. <br />
 
 <br>
 
