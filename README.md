@@ -7,11 +7,6 @@ In this project, we will inspect network traffic between Azure Virtual Machines 
 
 <br>
 
-<h2>Video Demonstration</h2>
-
-- ### [Project Walkthrough](https://www.youtube.com)
-
-<br>
 
 <h2>Environments and Technologies Used</h2>
 
