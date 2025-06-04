@@ -5,8 +5,6 @@
 <h1>Inspecting Traffic Between Azure Virtual Machines And Adding Firewall Rules</h1>
 In this project, we will inspect network traffic between Azure Virtual Machines (VMs) and set up firewall rules. It includes creating a Windows and Linux VM, testing connectivity between the two VMs, and modifying firewall rules to allow traffic. Technologies used include Microsoft Azure, PowerShell, MobaXterm, and Remote Desktop Connection. The project involves troubleshooting blocked traffic and enabling communication by adjusting firewall settings. <br />
 
-<br>
-
 
 <h2>Environments and Technologies Used</h2>
 
@@ -16,14 +14,12 @@ In this project, we will inspect network traffic between Azure Virtual Machines 
 - PowerShell
 - Linux CLI
 
-<br>
 
 <h2>Operating Systems Used </h2>
 
 - Windows 10 (21H2)
 - Ubuntu Server 22.04
 
-<br>
 
 <h2>High-Level Steps</h2>
 
