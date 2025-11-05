@@ -6,6 +6,7 @@
 In this project, we inspect network traffic between Azure Virtual Machines (VMs) and configure firewall rules to allow communication. The process includes creating both Windows and Linux VMs, testing connectivity between them, and troubleshooting blocked traffic using firewall adjustments. Technologies used include Microsoft Azure, PowerShell, MobaXterm, and Remote Desktop Connection. <br />
 
 <h2>Environments and Technologies Used</h2>
+
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop Connection
 - MobaXterm
@@ -13,10 +14,12 @@ In this project, we inspect network traffic between Azure Virtual Machines (VMs)
 - Linux CLI
 
 <h2>Operating Systems Used</h2>
+
 - Windows 10 (21H2)
 - Ubuntu Server 22.04
 
 <h2>High-Level Steps</h2>
+
 ### Create Virtual Machines
 - Create a Resource Group.
 - Create a Windows 10 Virtual Machine:
